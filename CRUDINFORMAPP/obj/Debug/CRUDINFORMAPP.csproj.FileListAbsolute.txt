@@ -1,0 +1,10 @@
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\bin\Debug\CRUDINFORMAPP.exe.config
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\bin\Debug\CRUDINFORMAPP.exe
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\bin\Debug\CRUDINFORMAPP.pdb
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.csproj.AssemblyReference.cache
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.Form1.resources
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.Properties.Resources.resources
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.csproj.GenerateResource.cache
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.csproj.CoreCompileInputs.cache
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.exe
+D:\C# Learning\University\CRUDINFORMAPP\CRUDINFORMAPP\obj\Debug\CRUDINFORMAPP.pdb
